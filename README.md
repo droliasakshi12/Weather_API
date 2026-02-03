@@ -34,8 +34,6 @@ import json
 import pyttsx3
 ```
 
-## ✏️About the Project 
-
 **👩‍💻code**
 ``` bash
 import requests
