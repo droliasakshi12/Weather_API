@@ -1,5 +1,5 @@
 # 🌦️Weather API 
-☁️ In this project we have make the use of **weather api** to fetch the present weather condition for city entered.
+☁️ In this project we have make the use of **weather API** to fetch the present weather condition for city entered.
 
 <h2>🛒Requirement</h2>
 <b>Python version</b>
